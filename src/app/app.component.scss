@@ -1,0 +1,30 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1248px;
+
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+th {
+  font-weight: bold;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border: 2px solid #ccc;
+}

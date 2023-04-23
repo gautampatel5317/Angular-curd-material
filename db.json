@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstName": "dsdsd",
+      "lastName": "dsd",
+      "email": "sdsd@wdsds.sds",
+      "dob": "2023-04-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermidiate",
+      "company": "sdsd",
+      "experience": "2",
+      "package": "32",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
